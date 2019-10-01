@@ -1,5 +1,17 @@
 # ukfast/pokédex
 
+##Candidate comments
+
+Hywel Jones - hywel@jones5.com - 07488235545
+
+- Test completed using a Laravel framework (Laravel 6 used)
+- All criteria of test achieved, though site design could be a lot better!
+- Pokemon API rate limiting respected by caching list of all Pokemon names - it is
+unlikely a single human user could break the API limit
+- Oh and FYI I knew nothing about Pokemon before this test!
+
+##-----------------------------  
+
 **This project will be based primarily on your ability to fulfill the task 
 requirements. Any potential design skills are a bonus, but usability, 
 performance and security will be taken into account.**
