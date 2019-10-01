@@ -11,6 +11,5 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/{char?}', 'pokemonController@index');
+Route::get('/pokemon/{id}/', 'pokemonController@single');
