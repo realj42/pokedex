@@ -2,7 +2,7 @@
 
 ##Candidate comments
 
-Hywel Jones - hywel@jones5.com - 07488235545
+Hywel Jones - hywel@jones5.com 
 
 - Test completed using a Laravel framework (Laravel 6 used)
 - All criteria of test achieved, though site design could be a lot better!
